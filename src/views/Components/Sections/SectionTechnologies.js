@@ -6,7 +6,7 @@ import styles from "assets/jss/material-kit-react/views/componentsSections/downl
 
 const useStyles = makeStyles(styles);
 
-export default function SectionDownload() {
+export default function SectionTechnologies() {
   const classes = useStyles();
   return (
     <div className={classes.section}>
@@ -36,7 +36,7 @@ export default function SectionDownload() {
                     <img src="android.jpg" alt="react-native" style={{ height: "110px", width: "150px" }}></img>
                   </GridItem>
                   <GridItem xs={12} sm={6} md={4}>
-                    <img src="nodejs.png" alt="npdejs" style={{ height: "100px", width: "150px" }}></img>
+                    <img src="nodejs.png" alt="nodejs" style={{ height: "100px", width: "150px" }}></img>
                   </GridItem>
                 </GridContainer><br />
                 <GridContainer className={classes.textCenter} justify="center">

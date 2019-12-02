@@ -10,7 +10,8 @@ describe('ContactUs', () => {
     let contactUs = mount(
         <MemoryRouter>
             <ContactUs />
-        </MemoryRouter>)
+        </MemoryRouter>
+        )
 
     it('renders the Get in touch with us text', () => {
         expect(contactUs.find('h2').at(0).text()).toEqual('Get in touch with us')

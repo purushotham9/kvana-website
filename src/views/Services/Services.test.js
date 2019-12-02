@@ -18,4 +18,4 @@ describe('Services', () => {
     it('renders the services text', () => {
         expect(services.find('h4').at(0).text()).toEqual('Kvana provides a wide range of marketplace development services for various industries')
     });
-});
+}); 

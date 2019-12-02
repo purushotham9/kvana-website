@@ -6,7 +6,7 @@ import Footer from "components/Footer/Footer.js";
 import Parallax from "components/Parallax/Parallax.js";
 import HeaderLinks from "components/Header/HeaderLinks.js";
 import SectionExamples from "./Sections/SectionExamples.js";
-import SectionDownload from "./Sections/SectionDownload.js";
+import SectionTechnologies from "./Sections/SectionTechnologies.js";
 import styles from "assets/jss/material-kit-react/views/components.js";
 import GridContainer from "components/Grid/GridContainer.js";
 import GridItem from "components/Grid/GridItem.js";
@@ -35,7 +35,7 @@ export default function Components(props) {
         <br />
         <h2 style={{textAlign: "center"}}>Our Services</h2>
         <SectionExamples />
-        <SectionDownload />
+        <SectionTechnologies />
         <div className={classes.container}>
         <GridContainer className={classes.textCenter} justify="center">
 

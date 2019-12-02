@@ -11,4 +11,4 @@ describe('Components', () =>{
     it('renders the services text', () => {
         expect(components.find('h2').text()).toEqual('Our Services')
     });
-});
+}); 

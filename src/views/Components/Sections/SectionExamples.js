@@ -73,12 +73,12 @@ export default function SectionExamples() {
           <div><div style={{ boxShadow: "0 0 10px #E8EAE8", height: "370px", borderRadius: "5px", padding: "20px", margin: "10px" }}>
             <img src="mobileLogo.png" alt="mobile" style={{ height: "100px", width: "80px" }}></img>
             <h3>Mobile Development</h3>
-            <p >Make your product accessible on-the-go with iOS and Android mobile application crafted especially for your niche. </p>
+            <p >Make your product accessible on-the-go with iOS and Android mobile application crafted especially for your niche.</p>
           </div></div>
           <div><div style={{ boxShadow: "0 0 10px #E8EAE8", height: "370px", borderRadius: "5px", padding: "20px", margin: "10px" }}>
             <img src="qa.png" alt="qa" style={{ height: "100px", width: "80px" }}></img>
             <h3>Quality Assurance</h3>
-            <p >Create a product of exceptional quality with manual and automated testing throughout all stages of the development cycle. </p>
+            <p >Create a product of exceptional quality with manual and automated testing throughout all stages of the development cycle.</p>
           </div></div>
           <div><div style={{ boxShadow: "0 0 10px #E8EAE8", height: "370px", borderRadius: "5px", padding: "20px", margin: "10px" }}>
             <img src="uiux.jpg" alt="uiux" style={{ height: "100px", width: "140px" }}></img>
